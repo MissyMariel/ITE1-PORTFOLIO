@@ -1,0 +1,70 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+html {
+  font-size: 16px;
+  font-family: Arial, sans-serif;
+}
+
+
+body {
+  background-color: #f7f7f7;
+}
+
+
+.portfolio {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+
+header {
+  background-color: #112d62;
+  color: #fff;
+  padding: 1rem;
+}
+
+header h1 {
+  font-size: 2rem;
+}
+
+/* Style the projects section */
+.projects {
+  padding: 1rem;
+}
+
+.projects h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.project {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.project h3 {
+  font-size: 1.2rem;
+}
+
+.project p {
+  font-size: 1rem;
+}
+
+/* Style the footer */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+
+footer p {
+  font-size: 0.8rem;
+}
